@@ -1,6 +1,6 @@
 sitemaps:
   default:
-    origin: https://bcdemo.run.place
+    origin: https://main--tennis-australia--kradhakrish.aem.live
     source: /query-index.json
     destination: /sitemap.xml
     lastmod: YYYY-MM-DDTHH:mm:ssZ
