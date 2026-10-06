@@ -1,0 +1,11 @@
+{
+  "source": {
+    "url": "https://author-p158407-e1689364.adobeaemcloud.com/bin/franklin.delivery/kradhakrish/tennis-australia/main",
+    "type": "markup",
+    "suffix": ".html"
+  },
+  "overlay": {
+    "url": "https://json2html.adobeaem.workers.dev/kradhakrish/tennis-australia/main",
+    "type": "markup"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/news/",
+    "endpoint": "https://publish-p158407-e1689364.adobeaemcloud.com/graphql/execute.json/tennis-australia/article-by-id;id={{id}}",
+    "regex": "/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/",
+    "template": "/templates/article.html",
+    "relativeURLPrefix": "https://publish-p158407-e1689364.adobeaemcloud.com",
+    "headers": {
+      "Accept": "application/json"
+    }
+  }
+]

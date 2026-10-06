@@ -214,5 +214,17 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "news-listing",
+    "fields": [
+      {
+        "component": "number",
+        "valueType": "number",
+        "name": "limit",
+        "label": "Number of articles",
+        "description": "Leave empty to show all articles"
+      }
+    ]
   }
 ]

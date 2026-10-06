@@ -6,3 +6,6 @@ package.json
 package-lock.json
 test/*
 _*
+ContentFragments/*
+.content.xml
+tools/json2html/*
